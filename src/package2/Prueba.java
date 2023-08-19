@@ -1,4 +1,4 @@
-package src.package1;
+package src.package2;
 
 public class Prueba  {
 
